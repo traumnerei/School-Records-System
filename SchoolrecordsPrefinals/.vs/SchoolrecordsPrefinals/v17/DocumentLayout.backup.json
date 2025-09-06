@@ -1,0 +1,1095 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\OneDrive\\Documents\\IP\\SchoolrecordsPrefinals\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{84735FC3-C89C-47C4-9294-18F141FB0ECC}|SchoolrecordsPrefinals.csproj|c:\\users\\admin\\onedrive\\documents\\ip\\schoolrecordsprefinals\\uc_courses .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84735FC3-C89C-47C4-9294-18F141FB0ECC}|SchoolrecordsPrefinals.csproj|solutionrelative:uc_courses .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84735FC3-C89C-47C4-9294-18F141FB0ECC}|SchoolrecordsPrefinals.csproj|C:\\Users\\Admin\\OneDrive\\Documents\\IP\\SchoolrecordsPrefinals\\uc_courses .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{84735FC3-C89C-47C4-9294-18F141FB0ECC}|SchoolrecordsPrefinals.csproj|solutionrelative:uc_courses .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84735FC3-C89C-47C4-9294-18F141FB0ECC}|SchoolrecordsPrefinals.csproj|C:\\Users\\Admin\\OneDrive\\Documents\\IP\\SchoolrecordsPrefinals\\loginpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{84735FC3-C89C-47C4-9294-18F141FB0ECC}|SchoolrecordsPrefinals.csproj|solutionrelative:loginpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84735FC3-C89C-47C4-9294-18F141FB0ECC}|SchoolrecordsPrefinals.csproj|C:\\Users\\Admin\\OneDrive\\Documents\\IP\\SchoolrecordsPrefinals\\viewcourseenrolled.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{84735FC3-C89C-47C4-9294-18F141FB0ECC}|SchoolrecordsPrefinals.csproj|solutionrelative:viewcourseenrolled.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84735FC3-C89C-47C4-9294-18F141FB0ECC}|SchoolrecordsPrefinals.csproj|C:\\Users\\Admin\\OneDrive\\Documents\\IP\\SchoolrecordsPrefinals\\viewenrolledcoursed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{84735FC3-C89C-47C4-9294-18F141FB0ECC}|SchoolrecordsPrefinals.csproj|solutionrelative:viewenrolledcoursed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84735FC3-C89C-47C4-9294-18F141FB0ECC}|SchoolrecordsPrefinals.csproj|C:\\Users\\Admin\\OneDrive\\Documents\\IP\\SchoolrecordsPrefinals\\uc_coursesoverview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{84735FC3-C89C-47C4-9294-18F141FB0ECC}|SchoolrecordsPrefinals.csproj|solutionrelative:uc_coursesoverview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84735FC3-C89C-47C4-9294-18F141FB0ECC}|SchoolrecordsPrefinals.csproj|C:\\Users\\Admin\\OneDrive\\Documents\\IP\\SchoolrecordsPrefinals\\teacherdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84735FC3-C89C-47C4-9294-18F141FB0ECC}|SchoolrecordsPrefinals.csproj|solutionrelative:teacherdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84735FC3-C89C-47C4-9294-18F141FB0ECC}|SchoolrecordsPrefinals.csproj|C:\\Users\\Admin\\OneDrive\\Documents\\IP\\SchoolrecordsPrefinals\\teacherdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{84735FC3-C89C-47C4-9294-18F141FB0ECC}|SchoolrecordsPrefinals.csproj|solutionrelative:teacherdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84735FC3-C89C-47C4-9294-18F141FB0ECC}|SchoolrecordsPrefinals.csproj|C:\\Users\\Admin\\OneDrive\\Documents\\IP\\SchoolrecordsPrefinals\\addedituserform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84735FC3-C89C-47C4-9294-18F141FB0ECC}|SchoolrecordsPrefinals.csproj|solutionrelative:addedituserform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84735FC3-C89C-47C4-9294-18F141FB0ECC}|SchoolrecordsPrefinals.csproj|C:\\Users\\Admin\\OneDrive\\Documents\\IP\\SchoolrecordsPrefinals\\addedituserform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{84735FC3-C89C-47C4-9294-18F141FB0ECC}|SchoolrecordsPrefinals.csproj|solutionrelative:addedituserform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84735FC3-C89C-47C4-9294-18F141FB0ECC}|SchoolrecordsPrefinals.csproj|C:\\Users\\Admin\\OneDrive\\Documents\\IP\\SchoolrecordsPrefinals\\admindashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84735FC3-C89C-47C4-9294-18F141FB0ECC}|SchoolrecordsPrefinals.csproj|solutionrelative:admindashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84735FC3-C89C-47C4-9294-18F141FB0ECC}|SchoolrecordsPrefinals.csproj|C:\\Users\\Admin\\OneDrive\\Documents\\IP\\SchoolrecordsPrefinals\\selectrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{84735FC3-C89C-47C4-9294-18F141FB0ECC}|SchoolrecordsPrefinals.csproj|solutionrelative:selectrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84735FC3-C89C-47C4-9294-18F141FB0ECC}|SchoolrecordsPrefinals.csproj|C:\\Users\\Admin\\OneDrive\\Documents\\IP\\SchoolrecordsPrefinals\\admindashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{84735FC3-C89C-47C4-9294-18F141FB0ECC}|SchoolrecordsPrefinals.csproj|solutionrelative:admindashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84735FC3-C89C-47C4-9294-18F141FB0ECC}|SchoolrecordsPrefinals.csproj|C:\\Users\\Admin\\OneDrive\\Documents\\IP\\SchoolrecordsPrefinals\\deandashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{84735FC3-C89C-47C4-9294-18F141FB0ECC}|SchoolrecordsPrefinals.csproj|solutionrelative:deandashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84735FC3-C89C-47C4-9294-18F141FB0ECC}|SchoolrecordsPrefinals.csproj|C:\\Users\\Admin\\OneDrive\\Documents\\IP\\SchoolrecordsPrefinals\\deandashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84735FC3-C89C-47C4-9294-18F141FB0ECC}|SchoolrecordsPrefinals.csproj|solutionrelative:deandashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84735FC3-C89C-47C4-9294-18F141FB0ECC}|SchoolrecordsPrefinals.csproj|C:\\Users\\Admin\\OneDrive\\Documents\\IP\\SchoolrecordsPrefinals\\enrollstudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84735FC3-C89C-47C4-9294-18F141FB0ECC}|SchoolrecordsPrefinals.csproj|solutionrelative:enrollstudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84735FC3-C89C-47C4-9294-18F141FB0ECC}|SchoolrecordsPrefinals.csproj|C:\\Users\\Admin\\OneDrive\\Documents\\IP\\SchoolrecordsPrefinals\\enrollstudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{84735FC3-C89C-47C4-9294-18F141FB0ECC}|SchoolrecordsPrefinals.csproj|solutionrelative:enrollstudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84735FC3-C89C-47C4-9294-18F141FB0ECC}|SchoolrecordsPrefinals.csproj|C:\\Users\\Admin\\OneDrive\\Documents\\IP\\SchoolrecordsPrefinals\\registrardashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84735FC3-C89C-47C4-9294-18F141FB0ECC}|SchoolrecordsPrefinals.csproj|solutionrelative:registrardashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84735FC3-C89C-47C4-9294-18F141FB0ECC}|SchoolrecordsPrefinals.csproj|C:\\Users\\Admin\\OneDrive\\Documents\\IP\\SchoolrecordsPrefinals\\registrardashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{84735FC3-C89C-47C4-9294-18F141FB0ECC}|SchoolrecordsPrefinals.csproj|solutionrelative:registrardashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84735FC3-C89C-47C4-9294-18F141FB0ECC}|SchoolrecordsPrefinals.csproj|C:\\Users\\Admin\\OneDrive\\Documents\\IP\\SchoolrecordsPrefinals\\ucgrades.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84735FC3-C89C-47C4-9294-18F141FB0ECC}|SchoolrecordsPrefinals.csproj|solutionrelative:ucgrades.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84735FC3-C89C-47C4-9294-18F141FB0ECC}|SchoolrecordsPrefinals.csproj|C:\\Users\\Admin\\OneDrive\\Documents\\IP\\SchoolrecordsPrefinals\\ucgrades.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{84735FC3-C89C-47C4-9294-18F141FB0ECC}|SchoolrecordsPrefinals.csproj|solutionrelative:ucgrades.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84735FC3-C89C-47C4-9294-18F141FB0ECC}|SchoolrecordsPrefinals.csproj|C:\\Users\\Admin\\OneDrive\\Documents\\IP\\SchoolrecordsPrefinals\\assignscheduleform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84735FC3-C89C-47C4-9294-18F141FB0ECC}|SchoolrecordsPrefinals.csproj|solutionrelative:assignscheduleform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84735FC3-C89C-47C4-9294-18F141FB0ECC}|SchoolrecordsPrefinals.csproj|C:\\Users\\Admin\\OneDrive\\Documents\\IP\\SchoolrecordsPrefinals\\assignscheduleform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{84735FC3-C89C-47C4-9294-18F141FB0ECC}|SchoolrecordsPrefinals.csproj|solutionrelative:assignscheduleform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84735FC3-C89C-47C4-9294-18F141FB0ECC}|SchoolrecordsPrefinals.csproj|C:\\Users\\Admin\\OneDrive\\Documents\\IP\\SchoolrecordsPrefinals\\viewenrolledcoursed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84735FC3-C89C-47C4-9294-18F141FB0ECC}|SchoolrecordsPrefinals.csproj|solutionrelative:viewenrolledcoursed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84735FC3-C89C-47C4-9294-18F141FB0ECC}|SchoolrecordsPrefinals.csproj|C:\\Users\\Admin\\OneDrive\\Documents\\IP\\SchoolrecordsPrefinals\\viewcourseenrolled.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84735FC3-C89C-47C4-9294-18F141FB0ECC}|SchoolrecordsPrefinals.csproj|solutionrelative:viewcourseenrolled.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84735FC3-C89C-47C4-9294-18F141FB0ECC}|SchoolrecordsPrefinals.csproj|C:\\Users\\Admin\\OneDrive\\Documents\\IP\\SchoolrecordsPrefinals\\override.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{84735FC3-C89C-47C4-9294-18F141FB0ECC}|SchoolrecordsPrefinals.csproj|solutionrelative:override.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84735FC3-C89C-47C4-9294-18F141FB0ECC}|SchoolrecordsPrefinals.csproj|C:\\Users\\Admin\\OneDrive\\Documents\\IP\\SchoolrecordsPrefinals\\override.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84735FC3-C89C-47C4-9294-18F141FB0ECC}|SchoolrecordsPrefinals.csproj|solutionrelative:override.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84735FC3-C89C-47C4-9294-18F141FB0ECC}|SchoolrecordsPrefinals.csproj|C:\\Users\\Admin\\OneDrive\\Documents\\IP\\SchoolrecordsPrefinals\\uc_gradeassign.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{84735FC3-C89C-47C4-9294-18F141FB0ECC}|SchoolrecordsPrefinals.csproj|solutionrelative:uc_gradeassign.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84735FC3-C89C-47C4-9294-18F141FB0ECC}|SchoolrecordsPrefinals.csproj|C:\\Users\\Admin\\OneDrive\\Documents\\IP\\SchoolrecordsPrefinals\\managestudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84735FC3-C89C-47C4-9294-18F141FB0ECC}|SchoolrecordsPrefinals.csproj|solutionrelative:managestudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84735FC3-C89C-47C4-9294-18F141FB0ECC}|SchoolrecordsPrefinals.csproj|C:\\Users\\Admin\\OneDrive\\Documents\\IP\\SchoolrecordsPrefinals\\managestudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{84735FC3-C89C-47C4-9294-18F141FB0ECC}|SchoolrecordsPrefinals.csproj|solutionrelative:managestudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84735FC3-C89C-47C4-9294-18F141FB0ECC}|SchoolrecordsPrefinals.csproj|C:\\Users\\Admin\\OneDrive\\Documents\\IP\\SchoolrecordsPrefinals\\managestudentd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84735FC3-C89C-47C4-9294-18F141FB0ECC}|SchoolrecordsPrefinals.csproj|solutionrelative:managestudentd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84735FC3-C89C-47C4-9294-18F141FB0ECC}|SchoolrecordsPrefinals.csproj|C:\\Users\\Admin\\OneDrive\\Documents\\IP\\SchoolrecordsPrefinals\\managestudentd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{84735FC3-C89C-47C4-9294-18F141FB0ECC}|SchoolrecordsPrefinals.csproj|solutionrelative:managestudentd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84735FC3-C89C-47C4-9294-18F141FB0ECC}|SchoolrecordsPrefinals.csproj|C:\\Users\\Admin\\OneDrive\\Documents\\IP\\SchoolrecordsPrefinals\\loginpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84735FC3-C89C-47C4-9294-18F141FB0ECC}|SchoolrecordsPrefinals.csproj|solutionrelative:loginpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84735FC3-C89C-47C4-9294-18F141FB0ECC}|SchoolrecordsPrefinals.csproj|C:\\Users\\Admin\\OneDrive\\Documents\\IP\\SchoolrecordsPrefinals\\teacherdashboard.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84735FC3-C89C-47C4-9294-18F141FB0ECC}|SchoolrecordsPrefinals.csproj|solutionrelative:teacherdashboard.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84735FC3-C89C-47C4-9294-18F141FB0ECC}|SchoolrecordsPrefinals.csproj|C:\\Users\\Admin\\OneDrive\\Documents\\IP\\SchoolrecordsPrefinals\\uc_assign.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{84735FC3-C89C-47C4-9294-18F141FB0ECC}|SchoolrecordsPrefinals.csproj|solutionrelative:uc_assign.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84735FC3-C89C-47C4-9294-18F141FB0ECC}|SchoolrecordsPrefinals.csproj|C:\\Users\\Admin\\OneDrive\\Documents\\IP\\SchoolrecordsPrefinals\\studentdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84735FC3-C89C-47C4-9294-18F141FB0ECC}|SchoolrecordsPrefinals.csproj|solutionrelative:studentdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84735FC3-C89C-47C4-9294-18F141FB0ECC}|SchoolrecordsPrefinals.csproj|C:\\Users\\Admin\\OneDrive\\Documents\\IP\\SchoolrecordsPrefinals\\studentdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{84735FC3-C89C-47C4-9294-18F141FB0ECC}|SchoolrecordsPrefinals.csproj|solutionrelative:studentdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84735FC3-C89C-47C4-9294-18F141FB0ECC}|SchoolrecordsPrefinals.csproj|C:\\Users\\Admin\\OneDrive\\Documents\\IP\\SchoolrecordsPrefinals\\class_sched.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84735FC3-C89C-47C4-9294-18F141FB0ECC}|SchoolrecordsPrefinals.csproj|solutionrelative:class_sched.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84735FC3-C89C-47C4-9294-18F141FB0ECC}|SchoolrecordsPrefinals.csproj|C:\\Users\\Admin\\OneDrive\\Documents\\IP\\SchoolrecordsPrefinals\\class_sched.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{84735FC3-C89C-47C4-9294-18F141FB0ECC}|SchoolrecordsPrefinals.csproj|solutionrelative:class_sched.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84735FC3-C89C-47C4-9294-18F141FB0ECC}|SchoolrecordsPrefinals.csproj|C:\\Users\\Admin\\OneDrive\\Documents\\IP\\SchoolrecordsPrefinals\\registrardashboard.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84735FC3-C89C-47C4-9294-18F141FB0ECC}|SchoolrecordsPrefinals.csproj|solutionrelative:registrardashboard.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84735FC3-C89C-47C4-9294-18F141FB0ECC}|SchoolrecordsPrefinals.csproj|C:\\Users\\Admin\\OneDrive\\Documents\\IP\\SchoolrecordsPrefinals\\uc_gradeassign.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84735FC3-C89C-47C4-9294-18F141FB0ECC}|SchoolrecordsPrefinals.csproj|solutionrelative:uc_gradeassign.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84735FC3-C89C-47C4-9294-18F141FB0ECC}|SchoolrecordsPrefinals.csproj|C:\\Users\\Admin\\OneDrive\\Documents\\IP\\SchoolrecordsPrefinals\\uc_assign.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84735FC3-C89C-47C4-9294-18F141FB0ECC}|SchoolrecordsPrefinals.csproj|solutionrelative:uc_assign.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84735FC3-C89C-47C4-9294-18F141FB0ECC}|SchoolrecordsPrefinals.csproj|C:\\Users\\Admin\\OneDrive\\Documents\\IP\\SchoolrecordsPrefinals\\uc_coursesoverview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84735FC3-C89C-47C4-9294-18F141FB0ECC}|SchoolrecordsPrefinals.csproj|solutionrelative:uc_coursesoverview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84735FC3-C89C-47C4-9294-18F141FB0ECC}|SchoolrecordsPrefinals.csproj|C:\\Users\\Admin\\OneDrive\\Documents\\IP\\SchoolrecordsPrefinals\\uc_coursesoverview.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84735FC3-C89C-47C4-9294-18F141FB0ECC}|SchoolrecordsPrefinals.csproj|solutionrelative:uc_coursesoverview.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84735FC3-C89C-47C4-9294-18F141FB0ECC}|SchoolrecordsPrefinals.csproj|C:\\Users\\Admin\\OneDrive\\Documents\\IP\\SchoolrecordsPrefinals\\addcourse1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84735FC3-C89C-47C4-9294-18F141FB0ECC}|SchoolrecordsPrefinals.csproj|solutionrelative:addcourse1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84735FC3-C89C-47C4-9294-18F141FB0ECC}|SchoolrecordsPrefinals.csproj|C:\\Users\\Admin\\OneDrive\\Documents\\IP\\SchoolrecordsPrefinals\\addcourse1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{84735FC3-C89C-47C4-9294-18F141FB0ECC}|SchoolrecordsPrefinals.csproj|solutionrelative:addcourse1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84735FC3-C89C-47C4-9294-18F141FB0ECC}|SchoolrecordsPrefinals.csproj|C:\\Users\\Admin\\OneDrive\\Documents\\IP\\SchoolrecordsPrefinals\\resources\\irefreshable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84735FC3-C89C-47C4-9294-18F141FB0ECC}|SchoolrecordsPrefinals.csproj|solutionrelative:resources\\irefreshable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84735FC3-C89C-47C4-9294-18F141FB0ECC}|SchoolrecordsPrefinals.csproj|C:\\Users\\Admin\\OneDrive\\Documents\\IP\\SchoolrecordsPrefinals\\uc_courses .designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84735FC3-C89C-47C4-9294-18F141FB0ECC}|SchoolrecordsPrefinals.csproj|solutionrelative:uc_courses .designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84735FC3-C89C-47C4-9294-18F141FB0ECC}|SchoolrecordsPrefinals.csproj|C:\\Users\\Admin\\OneDrive\\Documents\\IP\\SchoolrecordsPrefinals\\addcourse1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84735FC3-C89C-47C4-9294-18F141FB0ECC}|SchoolrecordsPrefinals.csproj|solutionrelative:addcourse1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84735FC3-C89C-47C4-9294-18F141FB0ECC}|SchoolrecordsPrefinals.csproj|C:\\Users\\Admin\\OneDrive\\Documents\\IP\\SchoolrecordsPrefinals\\assignteacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{84735FC3-C89C-47C4-9294-18F141FB0ECC}|SchoolrecordsPrefinals.csproj|solutionrelative:assignteacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84735FC3-C89C-47C4-9294-18F141FB0ECC}|SchoolrecordsPrefinals.csproj|C:\\Users\\Admin\\OneDrive\\Documents\\IP\\SchoolrecordsPrefinals\\uc_assign.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84735FC3-C89C-47C4-9294-18F141FB0ECC}|SchoolrecordsPrefinals.csproj|solutionrelative:uc_assign.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84735FC3-C89C-47C4-9294-18F141FB0ECC}|SchoolrecordsPrefinals.csproj|C:\\Users\\Admin\\OneDrive\\Documents\\IP\\SchoolrecordsPrefinals\\ucgrades.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84735FC3-C89C-47C4-9294-18F141FB0ECC}|SchoolrecordsPrefinals.csproj|solutionrelative:ucgrades.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84735FC3-C89C-47C4-9294-18F141FB0ECC}|SchoolrecordsPrefinals.csproj|C:\\Users\\Admin\\OneDrive\\Documents\\IP\\SchoolrecordsPrefinals\\managestudentd.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84735FC3-C89C-47C4-9294-18F141FB0ECC}|SchoolrecordsPrefinals.csproj|solutionrelative:managestudentd.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84735FC3-C89C-47C4-9294-18F141FB0ECC}|SchoolrecordsPrefinals.csproj|C:\\Users\\Admin\\OneDrive\\Documents\\IP\\SchoolrecordsPrefinals\\enrollstudent.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84735FC3-C89C-47C4-9294-18F141FB0ECC}|SchoolrecordsPrefinals.csproj|solutionrelative:enrollstudent.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84735FC3-C89C-47C4-9294-18F141FB0ECC}|SchoolrecordsPrefinals.csproj|C:\\Users\\Admin\\OneDrive\\Documents\\IP\\SchoolrecordsPrefinals\\viewenrolledcoursed.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84735FC3-C89C-47C4-9294-18F141FB0ECC}|SchoolrecordsPrefinals.csproj|solutionrelative:viewenrolledcoursed.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84735FC3-C89C-47C4-9294-18F141FB0ECC}|SchoolrecordsPrefinals.csproj|C:\\Users\\Admin\\OneDrive\\Documents\\IP\\SchoolrecordsPrefinals\\managestudent.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84735FC3-C89C-47C4-9294-18F141FB0ECC}|SchoolrecordsPrefinals.csproj|solutionrelative:managestudent.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84735FC3-C89C-47C4-9294-18F141FB0ECC}|SchoolrecordsPrefinals.csproj|C:\\Users\\Admin\\OneDrive\\Documents\\IP\\SchoolrecordsPrefinals\\viewcourseenrolled.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84735FC3-C89C-47C4-9294-18F141FB0ECC}|SchoolrecordsPrefinals.csproj|solutionrelative:viewcourseenrolled.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84735FC3-C89C-47C4-9294-18F141FB0ECC}|SchoolrecordsPrefinals.csproj|C:\\Users\\Admin\\OneDrive\\Documents\\IP\\SchoolrecordsPrefinals\\studentprogress.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{84735FC3-C89C-47C4-9294-18F141FB0ECC}|SchoolrecordsPrefinals.csproj|solutionrelative:studentprogress.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84735FC3-C89C-47C4-9294-18F141FB0ECC}|SchoolrecordsPrefinals.csproj|C:\\Users\\Admin\\OneDrive\\Documents\\IP\\SchoolrecordsPrefinals\\studentdashboard.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84735FC3-C89C-47C4-9294-18F141FB0ECC}|SchoolrecordsPrefinals.csproj|solutionrelative:studentdashboard.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84735FC3-C89C-47C4-9294-18F141FB0ECC}|SchoolrecordsPrefinals.csproj|C:\\Users\\Admin\\OneDrive\\Documents\\IP\\SchoolrecordsPrefinals\\class_sched.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84735FC3-C89C-47C4-9294-18F141FB0ECC}|SchoolrecordsPrefinals.csproj|solutionrelative:class_sched.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84735FC3-C89C-47C4-9294-18F141FB0ECC}|SchoolrecordsPrefinals.csproj|C:\\Users\\Admin\\OneDrive\\Documents\\IP\\SchoolrecordsPrefinals\\assignteacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84735FC3-C89C-47C4-9294-18F141FB0ECC}|SchoolrecordsPrefinals.csproj|solutionrelative:assignteacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84735FC3-C89C-47C4-9294-18F141FB0ECC}|SchoolrecordsPrefinals.csproj|C:\\Users\\Admin\\OneDrive\\Documents\\IP\\SchoolrecordsPrefinals\\uc_home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{84735FC3-C89C-47C4-9294-18F141FB0ECC}|SchoolrecordsPrefinals.csproj|solutionrelative:uc_home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84735FC3-C89C-47C4-9294-18F141FB0ECC}|SchoolrecordsPrefinals.csproj|C:\\Users\\Admin\\OneDrive\\Documents\\IP\\SchoolrecordsPrefinals\\uc_studentprogress.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{84735FC3-C89C-47C4-9294-18F141FB0ECC}|SchoolrecordsPrefinals.csproj|solutionrelative:uc_studentprogress.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84735FC3-C89C-47C4-9294-18F141FB0ECC}|SchoolrecordsPrefinals.csproj|C:\\Users\\Admin\\OneDrive\\Documents\\IP\\SchoolrecordsPrefinals\\override.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84735FC3-C89C-47C4-9294-18F141FB0ECC}|SchoolrecordsPrefinals.csproj|solutionrelative:override.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84735FC3-C89C-47C4-9294-18F141FB0ECC}|SchoolrecordsPrefinals.csproj|C:\\Users\\Admin\\OneDrive\\Documents\\IP\\SchoolrecordsPrefinals\\override.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{84735FC3-C89C-47C4-9294-18F141FB0ECC}|SchoolrecordsPrefinals.csproj|solutionrelative:override.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84735FC3-C89C-47C4-9294-18F141FB0ECC}|SchoolrecordsPrefinals.csproj|C:\\Users\\Admin\\OneDrive\\Documents\\IP\\SchoolrecordsPrefinals\\studentprogress.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84735FC3-C89C-47C4-9294-18F141FB0ECC}|SchoolrecordsPrefinals.csproj|solutionrelative:studentprogress.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84735FC3-C89C-47C4-9294-18F141FB0ECC}|SchoolrecordsPrefinals.csproj|C:\\Users\\Admin\\OneDrive\\Documents\\IP\\SchoolrecordsPrefinals\\loginpage.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84735FC3-C89C-47C4-9294-18F141FB0ECC}|SchoolrecordsPrefinals.csproj|solutionrelative:loginpage.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 325,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "SelectRole.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\Documents\\IP\\SchoolrecordsPrefinals\\SelectRole.cs",
+              "RelativeDocumentMoniker": "SelectRole.cs",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\Documents\\IP\\SchoolrecordsPrefinals\\SelectRole.cs [Design]",
+              "RelativeToolTip": "SelectRole.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T10:20:16.218Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{2d7728c2-de0a-45b5-99aa-89b609dfde73}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UC_Courses .cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\Documents\\IP\\SchoolrecordsPrefinals\\UC_Courses .cs",
+              "RelativeDocumentMoniker": "UC_Courses .cs",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\Documents\\IP\\SchoolrecordsPrefinals\\UC_Courses .cs",
+              "RelativeToolTip": "UC_Courses .cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAowB8AAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T07:10:31.473Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ViewCourseEnrolled.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\Documents\\IP\\SchoolrecordsPrefinals\\ViewCourseEnrolled.cs",
+              "RelativeDocumentMoniker": "ViewCourseEnrolled.cs",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\Documents\\IP\\SchoolrecordsPrefinals\\ViewCourseEnrolled.cs [Design]",
+              "RelativeToolTip": "ViewCourseEnrolled.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T14:36:37.089Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ViewEnrolledCourseD.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\Documents\\IP\\SchoolrecordsPrefinals\\ViewEnrolledCourseD.cs",
+              "RelativeDocumentMoniker": "ViewEnrolledCourseD.cs",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\Documents\\IP\\SchoolrecordsPrefinals\\ViewEnrolledCourseD.cs [Design]",
+              "RelativeToolTip": "ViewEnrolledCourseD.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-08T15:12:56.641Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UC_Courses .cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\Documents\\IP\\SchoolrecordsPrefinals\\UC_Courses .cs",
+              "RelativeDocumentMoniker": "UC_Courses .cs",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\Documents\\IP\\SchoolrecordsPrefinals\\UC_Courses .cs [Design]",
+              "RelativeToolTip": "UC_Courses .cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T01:08:32.648Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Loginpage.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\Documents\\IP\\SchoolrecordsPrefinals\\Loginpage.cs",
+              "RelativeDocumentMoniker": "Loginpage.cs",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\Documents\\IP\\SchoolrecordsPrefinals\\Loginpage.cs [Design]",
+              "RelativeToolTip": "Loginpage.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T09:23:58.925Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UC_CoursesOverview.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\Documents\\IP\\SchoolrecordsPrefinals\\UC_CoursesOverview.cs",
+              "RelativeDocumentMoniker": "UC_CoursesOverview.cs",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\Documents\\IP\\SchoolrecordsPrefinals\\UC_CoursesOverview.cs [Design]",
+              "RelativeToolTip": "UC_CoursesOverview.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T09:56:12.377Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "TeacherDashboard.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\Documents\\IP\\SchoolrecordsPrefinals\\TeacherDashboard.cs",
+              "RelativeDocumentMoniker": "TeacherDashboard.cs",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\Documents\\IP\\SchoolrecordsPrefinals\\TeacherDashboard.cs [Design]",
+              "RelativeToolTip": "TeacherDashboard.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T10:05:25.343Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AddEditUserform.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\Documents\\IP\\SchoolrecordsPrefinals\\AddEditUserform.cs",
+              "RelativeDocumentMoniker": "AddEditUserform.cs",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\Documents\\IP\\SchoolrecordsPrefinals\\AddEditUserform.cs",
+              "RelativeToolTip": "AddEditUserform.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAowAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T01:47:51.459Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AddEditUserform.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\Documents\\IP\\SchoolrecordsPrefinals\\AddEditUserform.cs",
+              "RelativeDocumentMoniker": "AddEditUserform.cs",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\Documents\\IP\\SchoolrecordsPrefinals\\AddEditUserform.cs [Design]",
+              "RelativeToolTip": "AddEditUserform.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T07:35:50.893Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TeacherDashboard.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\Documents\\IP\\SchoolrecordsPrefinals\\TeacherDashboard.cs",
+              "RelativeDocumentMoniker": "TeacherDashboard.cs",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\Documents\\IP\\SchoolrecordsPrefinals\\TeacherDashboard.cs",
+              "RelativeToolTip": "TeacherDashboard.cs",
+              "ViewState": "AgIAAJwAAAAAAAAAAAAIwK8AAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T07:07:30.321Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AdminDashboard.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\Documents\\IP\\SchoolrecordsPrefinals\\AdminDashboard.cs",
+              "RelativeDocumentMoniker": "AdminDashboard.cs",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\Documents\\IP\\SchoolrecordsPrefinals\\AdminDashboard.cs",
+              "RelativeToolTip": "AdminDashboard.cs",
+              "ViewState": "AgIAAJ8AAAAAAAAAAAAIwLIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T06:35:50.733Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AdminDashboard.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\Documents\\IP\\SchoolrecordsPrefinals\\AdminDashboard.cs",
+              "RelativeDocumentMoniker": "AdminDashboard.cs",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\Documents\\IP\\SchoolrecordsPrefinals\\AdminDashboard.cs [Design]",
+              "RelativeToolTip": "AdminDashboard.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T10:29:55.931Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "DeanDashboard.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\Documents\\IP\\SchoolrecordsPrefinals\\DeanDashboard.cs",
+              "RelativeDocumentMoniker": "DeanDashboard.cs",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\Documents\\IP\\SchoolrecordsPrefinals\\DeanDashboard.cs",
+              "RelativeToolTip": "DeanDashboard.cs",
+              "ViewState": "AgIAADwAAAAAAAAAAAAmwB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T03:22:33.305Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "DeanDashboard.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\Documents\\IP\\SchoolrecordsPrefinals\\DeanDashboard.cs",
+              "RelativeDocumentMoniker": "DeanDashboard.cs",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\Documents\\IP\\SchoolrecordsPrefinals\\DeanDashboard.cs [Design]",
+              "RelativeToolTip": "DeanDashboard.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T09:54:35.87Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "EnrollStudent.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\Documents\\IP\\SchoolrecordsPrefinals\\EnrollStudent.cs",
+              "RelativeDocumentMoniker": "EnrollStudent.cs",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\Documents\\IP\\SchoolrecordsPrefinals\\EnrollStudent.cs",
+              "RelativeToolTip": "EnrollStudent.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAmwH8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T01:03:30.222Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "EnrollStudent.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\Documents\\IP\\SchoolrecordsPrefinals\\EnrollStudent.cs",
+              "RelativeDocumentMoniker": "EnrollStudent.cs",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\Documents\\IP\\SchoolrecordsPrefinals\\EnrollStudent.cs [Design]",
+              "RelativeToolTip": "EnrollStudent.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T00:55:11.489Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "RegistrarDashboard.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\Documents\\IP\\SchoolrecordsPrefinals\\RegistrarDashboard.cs",
+              "RelativeDocumentMoniker": "RegistrarDashboard.cs",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\Documents\\IP\\SchoolrecordsPrefinals\\RegistrarDashboard.cs",
+              "RelativeToolTip": "RegistrarDashboard.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T01:36:40.267Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "RegistrarDashboard.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\Documents\\IP\\SchoolrecordsPrefinals\\RegistrarDashboard.cs",
+              "RelativeDocumentMoniker": "RegistrarDashboard.cs",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\Documents\\IP\\SchoolrecordsPrefinals\\RegistrarDashboard.cs [Design]",
+              "RelativeToolTip": "RegistrarDashboard.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T10:02:35.873Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "UCGrades.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\Documents\\IP\\SchoolrecordsPrefinals\\UCGrades.cs",
+              "RelativeDocumentMoniker": "UCGrades.cs",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\Documents\\IP\\SchoolrecordsPrefinals\\UCGrades.cs",
+              "RelativeToolTip": "UCGrades.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEsAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T13:00:32.972Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "UCGrades.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\Documents\\IP\\SchoolrecordsPrefinals\\UCGrades.cs",
+              "RelativeDocumentMoniker": "UCGrades.cs",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\Documents\\IP\\SchoolrecordsPrefinals\\UCGrades.cs [Design]",
+              "RelativeToolTip": "UCGrades.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T10:06:12.663Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "AssignScheduleForm.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\Documents\\IP\\SchoolrecordsPrefinals\\AssignScheduleForm.cs",
+              "RelativeDocumentMoniker": "AssignScheduleForm.cs",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\Documents\\IP\\SchoolrecordsPrefinals\\AssignScheduleForm.cs",
+              "RelativeToolTip": "AssignScheduleForm.cs",
+              "ViewState": "AgIAAFYAAAAAAAAAAAAAwGsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-08T01:03:24.581Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "AssignScheduleForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\Documents\\IP\\SchoolrecordsPrefinals\\AssignScheduleForm.cs",
+              "RelativeDocumentMoniker": "AssignScheduleForm.cs",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\Documents\\IP\\SchoolrecordsPrefinals\\AssignScheduleForm.cs [Design]",
+              "RelativeToolTip": "AssignScheduleForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-08T00:44:53.534Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "ViewEnrolledCourseD.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\Documents\\IP\\SchoolrecordsPrefinals\\ViewEnrolledCourseD.cs",
+              "RelativeDocumentMoniker": "ViewEnrolledCourseD.cs",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\Documents\\IP\\SchoolrecordsPrefinals\\ViewEnrolledCourseD.cs",
+              "RelativeToolTip": "ViewEnrolledCourseD.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAwwDgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-08T15:14:06.594Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "ViewCourseEnrolled.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\Documents\\IP\\SchoolrecordsPrefinals\\ViewCourseEnrolled.cs",
+              "RelativeDocumentMoniker": "ViewCourseEnrolled.cs",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\Documents\\IP\\SchoolrecordsPrefinals\\ViewCourseEnrolled.cs",
+              "RelativeToolTip": "ViewCourseEnrolled.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAgwDQAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T14:37:09.192Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Override.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\Documents\\IP\\SchoolrecordsPrefinals\\Override.cs",
+              "RelativeDocumentMoniker": "Override.cs",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\Documents\\IP\\SchoolrecordsPrefinals\\Override.cs [Design]",
+              "RelativeToolTip": "Override.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T15:41:45.522Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Override.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\Documents\\IP\\SchoolrecordsPrefinals\\Override.cs",
+              "RelativeDocumentMoniker": "Override.cs",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\Documents\\IP\\SchoolrecordsPrefinals\\Override.cs",
+              "RelativeToolTip": "Override.cs",
+              "ViewState": "AgIAADoAAAAAAAAAAAAcwFQAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T15:43:36.241Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "UC_Gradeassign.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\Documents\\IP\\SchoolrecordsPrefinals\\UC_Gradeassign.cs",
+              "RelativeDocumentMoniker": "UC_Gradeassign.cs",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\Documents\\IP\\SchoolrecordsPrefinals\\UC_Gradeassign.cs [Design]",
+              "RelativeToolTip": "UC_Gradeassign.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T10:07:05.654Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "ManageStudent.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\Documents\\IP\\SchoolrecordsPrefinals\\ManageStudent.cs",
+              "RelativeDocumentMoniker": "ManageStudent.cs",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\Documents\\IP\\SchoolrecordsPrefinals\\ManageStudent.cs",
+              "RelativeToolTip": "ManageStudent.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAkwDoAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T14:30:22.93Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "ManageStudent.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\Documents\\IP\\SchoolrecordsPrefinals\\ManageStudent.cs",
+              "RelativeDocumentMoniker": "ManageStudent.cs",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\Documents\\IP\\SchoolrecordsPrefinals\\ManageStudent.cs [Design]",
+              "RelativeToolTip": "ManageStudent.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-08T15:10:18.944Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "ManageStudentD.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\Documents\\IP\\SchoolrecordsPrefinals\\ManageStudentD.cs",
+              "RelativeDocumentMoniker": "ManageStudentD.cs",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\Documents\\IP\\SchoolrecordsPrefinals\\ManageStudentD.cs",
+              "RelativeToolTip": "ManageStudentD.cs",
+              "ViewState": "AgIAAEAAAAAAAAAAAAAcwD0AAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-08T15:11:23.108Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "ManageStudentD.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\Documents\\IP\\SchoolrecordsPrefinals\\ManageStudentD.cs",
+              "RelativeDocumentMoniker": "ManageStudentD.cs",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\Documents\\IP\\SchoolrecordsPrefinals\\ManageStudentD.cs [Design]",
+              "RelativeToolTip": "ManageStudentD.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-08T15:10:04.184Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Loginpage.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\Documents\\IP\\SchoolrecordsPrefinals\\Loginpage.cs",
+              "RelativeDocumentMoniker": "Loginpage.cs",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\Documents\\IP\\SchoolrecordsPrefinals\\Loginpage.cs",
+              "RelativeToolTip": "Loginpage.cs",
+              "ViewState": "AgIAALMAAAAAAAAAAAAuwLwAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T07:12:24.661Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "TeacherDashboard.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\Documents\\IP\\SchoolrecordsPrefinals\\TeacherDashboard.Designer.cs",
+              "RelativeDocumentMoniker": "TeacherDashboard.Designer.cs",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\Documents\\IP\\SchoolrecordsPrefinals\\TeacherDashboard.Designer.cs",
+              "RelativeToolTip": "TeacherDashboard.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T07:38:44.12Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "UC_Assign.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\Documents\\IP\\SchoolrecordsPrefinals\\UC_Assign.cs",
+              "RelativeDocumentMoniker": "UC_Assign.cs",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\Documents\\IP\\SchoolrecordsPrefinals\\UC_Assign.cs [Design]",
+              "RelativeToolTip": "UC_Assign.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T12:26:27.999Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "StudentDashboard.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\Documents\\IP\\SchoolrecordsPrefinals\\StudentDashboard.cs",
+              "RelativeDocumentMoniker": "StudentDashboard.cs",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\Documents\\IP\\SchoolrecordsPrefinals\\StudentDashboard.cs",
+              "RelativeToolTip": "StudentDashboard.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAQwBwAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T10:48:52.079Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "StudentDashboard.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\Documents\\IP\\SchoolrecordsPrefinals\\StudentDashboard.cs",
+              "RelativeDocumentMoniker": "StudentDashboard.cs",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\Documents\\IP\\SchoolrecordsPrefinals\\StudentDashboard.cs [Design]",
+              "RelativeToolTip": "StudentDashboard.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T10:23:10.861Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "class_sched.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\Documents\\IP\\SchoolrecordsPrefinals\\class_sched.cs",
+              "RelativeDocumentMoniker": "class_sched.cs",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\Documents\\IP\\SchoolrecordsPrefinals\\class_sched.cs",
+              "RelativeToolTip": "class_sched.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-07T15:09:58.125Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "class_sched.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\Documents\\IP\\SchoolrecordsPrefinals\\class_sched.cs",
+              "RelativeDocumentMoniker": "class_sched.cs",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\Documents\\IP\\SchoolrecordsPrefinals\\class_sched.cs [Design]",
+              "RelativeToolTip": "class_sched.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-07T14:36:34.962Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "RegistrarDashboard.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\Documents\\IP\\SchoolrecordsPrefinals\\RegistrarDashboard.Designer.cs",
+              "RelativeDocumentMoniker": "RegistrarDashboard.Designer.cs",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\Documents\\IP\\SchoolrecordsPrefinals\\RegistrarDashboard.Designer.cs",
+              "RelativeToolTip": "RegistrarDashboard.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T22:44:43.71Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "UC_Gradeassign.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\Documents\\IP\\SchoolrecordsPrefinals\\UC_Gradeassign.cs",
+              "RelativeDocumentMoniker": "UC_Gradeassign.cs",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\Documents\\IP\\SchoolrecordsPrefinals\\UC_Gradeassign.cs",
+              "RelativeToolTip": "UC_Gradeassign.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABkAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T00:38:54.849Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "UC_Assign.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\Documents\\IP\\SchoolrecordsPrefinals\\UC_Assign.cs",
+              "RelativeDocumentMoniker": "UC_Assign.cs",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\Documents\\IP\\SchoolrecordsPrefinals\\UC_Assign.cs",
+              "RelativeToolTip": "UC_Assign.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T12:28:58.632Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "UC_CoursesOverview.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\Documents\\IP\\SchoolrecordsPrefinals\\UC_CoursesOverview.cs",
+              "RelativeDocumentMoniker": "UC_CoursesOverview.cs",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\Documents\\IP\\SchoolrecordsPrefinals\\UC_CoursesOverview.cs",
+              "RelativeToolTip": "UC_CoursesOverview.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAA2wEYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T03:43:06.219Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "UC_CoursesOverview.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\Documents\\IP\\SchoolrecordsPrefinals\\UC_CoursesOverview.Designer.cs",
+              "RelativeDocumentMoniker": "UC_CoursesOverview.Designer.cs",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\Documents\\IP\\SchoolrecordsPrefinals\\UC_CoursesOverview.Designer.cs",
+              "RelativeToolTip": "UC_CoursesOverview.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T22:23:20.922Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "AddCourse1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\Documents\\IP\\SchoolrecordsPrefinals\\AddCourse1.cs",
+              "RelativeDocumentMoniker": "AddCourse1.cs",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\Documents\\IP\\SchoolrecordsPrefinals\\AddCourse1.cs [Design]",
+              "RelativeToolTip": "AddCourse1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T14:37:30.843Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "IRefreshable.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\Documents\\IP\\SchoolrecordsPrefinals\\Resources\\IRefreshable.cs",
+              "RelativeDocumentMoniker": "Resources\\IRefreshable.cs",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\Documents\\IP\\SchoolrecordsPrefinals\\Resources\\IRefreshable.cs",
+              "RelativeToolTip": "Resources\\IRefreshable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T22:21:14.75Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "AddCourse1.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\Documents\\IP\\SchoolrecordsPrefinals\\AddCourse1.cs",
+              "RelativeDocumentMoniker": "AddCourse1.cs",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\Documents\\IP\\SchoolrecordsPrefinals\\AddCourse1.cs",
+              "RelativeToolTip": "AddCourse1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T14:43:58.732Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "UC_Courses .Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\Documents\\IP\\SchoolrecordsPrefinals\\UC_Courses .Designer.cs",
+              "RelativeDocumentMoniker": "UC_Courses .Designer.cs",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\Documents\\IP\\SchoolrecordsPrefinals\\UC_Courses .Designer.cs",
+              "RelativeToolTip": "UC_Courses .Designer.cs",
+              "ViewState": "AgIAAFwAAAAAAAAAAAAlwGYAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-08T09:43:44.151Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "AddCourse1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\Documents\\IP\\SchoolrecordsPrefinals\\AddCourse1.Designer.cs",
+              "RelativeDocumentMoniker": "AddCourse1.Designer.cs",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\Documents\\IP\\SchoolrecordsPrefinals\\AddCourse1.Designer.cs",
+              "RelativeToolTip": "AddCourse1.Designer.cs",
+              "ViewState": "AgIAAHsAAAAAAAAAAAAmwIUAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T14:45:02.309Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "AssignTeacher.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\Documents\\IP\\SchoolrecordsPrefinals\\AssignTeacher.cs",
+              "RelativeDocumentMoniker": "AssignTeacher.cs",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\Documents\\IP\\SchoolrecordsPrefinals\\AssignTeacher.cs [Design]",
+              "RelativeToolTip": "AssignTeacher.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T06:52:22.614Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "UC_Assign.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\Documents\\IP\\SchoolrecordsPrefinals\\UC_Assign.Designer.cs",
+              "RelativeDocumentMoniker": "UC_Assign.Designer.cs",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\Documents\\IP\\SchoolrecordsPrefinals\\UC_Assign.Designer.cs",
+              "RelativeToolTip": "UC_Assign.Designer.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAmwCoAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T12:37:37.777Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "UCGrades.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\Documents\\IP\\SchoolrecordsPrefinals\\UCGrades.Designer.cs",
+              "RelativeDocumentMoniker": "UCGrades.Designer.cs",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\Documents\\IP\\SchoolrecordsPrefinals\\UCGrades.Designer.cs",
+              "RelativeToolTip": "UCGrades.Designer.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAhwBkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-08T04:17:18.752Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "ManageStudentD.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\Documents\\IP\\SchoolrecordsPrefinals\\ManageStudentD.Designer.cs",
+              "RelativeDocumentMoniker": "ManageStudentD.Designer.cs",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\Documents\\IP\\SchoolrecordsPrefinals\\ManageStudentD.Designer.cs",
+              "RelativeToolTip": "ManageStudentD.Designer.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAAABYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-08T15:17:38.787Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "EnrollStudent.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\Documents\\IP\\SchoolrecordsPrefinals\\EnrollStudent.Designer.cs",
+              "RelativeDocumentMoniker": "EnrollStudent.Designer.cs",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\Documents\\IP\\SchoolrecordsPrefinals\\EnrollStudent.Designer.cs",
+              "RelativeToolTip": "EnrollStudent.Designer.cs",
+              "ViewState": "AgIAAJsAAAAAAAAAAAAlwLcAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T04:09:28.662Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "ViewEnrolledCourseD.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\Documents\\IP\\SchoolrecordsPrefinals\\ViewEnrolledCourseD.Designer.cs",
+              "RelativeDocumentMoniker": "ViewEnrolledCourseD.Designer.cs",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\Documents\\IP\\SchoolrecordsPrefinals\\ViewEnrolledCourseD.Designer.cs",
+              "RelativeToolTip": "ViewEnrolledCourseD.Designer.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAAlwD4AAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-08T15:17:53.95Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "ManageStudent.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\Documents\\IP\\SchoolrecordsPrefinals\\ManageStudent.Designer.cs",
+              "RelativeDocumentMoniker": "ManageStudent.Designer.cs",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\Documents\\IP\\SchoolrecordsPrefinals\\ManageStudent.Designer.cs",
+              "RelativeToolTip": "ManageStudent.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T15:04:07.509Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "ViewCourseEnrolled.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\Documents\\IP\\SchoolrecordsPrefinals\\ViewCourseEnrolled.Designer.cs",
+              "RelativeDocumentMoniker": "ViewCourseEnrolled.Designer.cs",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\Documents\\IP\\SchoolrecordsPrefinals\\ViewCourseEnrolled.Designer.cs",
+              "RelativeToolTip": "ViewCourseEnrolled.Designer.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAlwCsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-08T14:11:46.197Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "StudentProgress.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\Documents\\IP\\SchoolrecordsPrefinals\\StudentProgress.cs",
+              "RelativeDocumentMoniker": "StudentProgress.cs",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\Documents\\IP\\SchoolrecordsPrefinals\\StudentProgress.cs [Design]",
+              "RelativeToolTip": "StudentProgress.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T03:59:40.536Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "StudentDashboard.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\Documents\\IP\\SchoolrecordsPrefinals\\StudentDashboard.Designer.cs",
+              "RelativeDocumentMoniker": "StudentDashboard.Designer.cs",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\Documents\\IP\\SchoolrecordsPrefinals\\StudentDashboard.Designer.cs",
+              "RelativeToolTip": "StudentDashboard.Designer.cs",
+              "ViewState": "AgIAAGEAAAAAAAAAAAAkwGsAAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-07T15:22:07.566Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "class_sched.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\Documents\\IP\\SchoolrecordsPrefinals\\class_sched.Designer.cs",
+              "RelativeDocumentMoniker": "class_sched.Designer.cs",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\Documents\\IP\\SchoolrecordsPrefinals\\class_sched.Designer.cs",
+              "RelativeToolTip": "class_sched.Designer.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAQwC4AAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-07T15:13:36.601Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "AssignTeacher.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\Documents\\IP\\SchoolrecordsPrefinals\\AssignTeacher.cs",
+              "RelativeDocumentMoniker": "AssignTeacher.cs",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\Documents\\IP\\SchoolrecordsPrefinals\\AssignTeacher.cs",
+              "RelativeToolTip": "AssignTeacher.cs",
+              "ViewState": "AgIAAEYAAAAAAAAAAAAAAF0AAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T08:00:17.982Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "UC_Home.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\Documents\\IP\\SchoolrecordsPrefinals\\UC_Home.cs",
+              "RelativeDocumentMoniker": "UC_Home.cs",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\Documents\\IP\\SchoolrecordsPrefinals\\UC_Home.cs [Design]",
+              "RelativeToolTip": "UC_Home.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T06:30:51.988Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "UC_StudentProgress.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\Documents\\IP\\SchoolrecordsPrefinals\\UC_StudentProgress.cs",
+              "RelativeDocumentMoniker": "UC_StudentProgress.cs",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\Documents\\IP\\SchoolrecordsPrefinals\\UC_StudentProgress.cs [Design]",
+              "RelativeToolTip": "UC_StudentProgress.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T05:54:14.39Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "Override.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\Documents\\IP\\SchoolrecordsPrefinals\\Override.Designer.cs",
+              "RelativeDocumentMoniker": "Override.Designer.cs",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\Documents\\IP\\SchoolrecordsPrefinals\\Override.Designer.cs",
+              "RelativeToolTip": "Override.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T22:20:51.006Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "Override.resx",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\Documents\\IP\\SchoolrecordsPrefinals\\Override.resx",
+              "RelativeDocumentMoniker": "Override.resx",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\Documents\\IP\\SchoolrecordsPrefinals\\Override.resx",
+              "RelativeToolTip": "Override.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2025-05-28T22:20:50.972Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "StudentProgress.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\Documents\\IP\\SchoolrecordsPrefinals\\StudentProgress.cs",
+              "RelativeDocumentMoniker": "StudentProgress.cs",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\Documents\\IP\\SchoolrecordsPrefinals\\StudentProgress.cs",
+              "RelativeToolTip": "StudentProgress.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAADwvxUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T03:59:56.487Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "Loginpage.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\Documents\\IP\\SchoolrecordsPrefinals\\Loginpage.Designer.cs",
+              "RelativeDocumentMoniker": "Loginpage.Designer.cs",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\Documents\\IP\\SchoolrecordsPrefinals\\Loginpage.Designer.cs",
+              "RelativeToolTip": "Loginpage.Designer.cs",
+              "ViewState": "AgIAAGYAAAAAAAAAAAAAADsAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T03:49:04.421Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedHeight": 36,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

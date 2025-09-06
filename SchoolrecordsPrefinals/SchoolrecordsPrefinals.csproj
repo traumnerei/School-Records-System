@@ -1,0 +1,378 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{84735FC3-C89C-47C4-9294-18F141FB0ECC}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>SchoolrecordsPrefinals</RootNamespace>
+    <AssemblyName>SchoolrecordsPrefinals</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="BouncyCastle.Cryptography, Version=2.0.0.0, Culture=neutral, PublicKeyToken=072edcf4a5328938, processorArchitecture=MSIL">
+      <HintPath>..\packages\BouncyCastle.Cryptography.2.5.1\lib\net461\BouncyCastle.Cryptography.dll</HintPath>
+    </Reference>
+    <Reference Include="Google.Protobuf, Version=3.30.0.0, Culture=neutral, PublicKeyToken=a7d26565bac4d604, processorArchitecture=MSIL">
+      <HintPath>..\packages\Google.Protobuf.3.30.0\lib\net45\Google.Protobuf.dll</HintPath>
+    </Reference>
+    <Reference Include="K4os.Compression.LZ4, Version=1.3.8.0, Culture=neutral, PublicKeyToken=2186fa9121ef231d, processorArchitecture=MSIL">
+      <HintPath>..\packages\K4os.Compression.LZ4.1.3.8\lib\net462\K4os.Compression.LZ4.dll</HintPath>
+    </Reference>
+    <Reference Include="K4os.Compression.LZ4.Streams, Version=1.3.8.0, Culture=neutral, PublicKeyToken=2186fa9121ef231d, processorArchitecture=MSIL">
+      <HintPath>..\packages\K4os.Compression.LZ4.Streams.1.3.8\lib\net462\K4os.Compression.LZ4.Streams.dll</HintPath>
+    </Reference>
+    <Reference Include="K4os.Hash.xxHash, Version=1.0.8.0, Culture=neutral, PublicKeyToken=32cd54395057cec3, processorArchitecture=MSIL">
+      <HintPath>..\packages\K4os.Hash.xxHash.1.0.8\lib\net462\K4os.Hash.xxHash.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Bcl.AsyncInterfaces, Version=5.0.0.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.Bcl.AsyncInterfaces.5.0.0\lib\net461\Microsoft.Bcl.AsyncInterfaces.dll</HintPath>
+    </Reference>
+    <Reference Include="MySql.Data, Version=9.3.0.0, Culture=neutral, PublicKeyToken=c5687fc88969c44d, processorArchitecture=MSIL">
+      <HintPath>..\packages\MySql.Data.9.3.0\lib\net462\MySql.Data.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Buffers, Version=4.0.3.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Buffers.4.5.1\lib\net461\System.Buffers.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Configuration.ConfigurationManager, Version=8.0.0.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Configuration.ConfigurationManager.8.0.0\lib\net462\System.Configuration.ConfigurationManager.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Core" />
+    <Reference Include="System.Diagnostics.DiagnosticSource, Version=8.0.0.1, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Diagnostics.DiagnosticSource.8.0.1\lib\net462\System.Diagnostics.DiagnosticSource.dll</HintPath>
+    </Reference>
+    <Reference Include="System.IO.Pipelines, Version=5.0.0.2, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.IO.Pipelines.5.0.2\lib\net461\System.IO.Pipelines.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Management" />
+    <Reference Include="System.Memory, Version=4.0.1.2, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Memory.4.5.5\lib\net461\System.Memory.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Numerics" />
+    <Reference Include="System.Numerics.Vectors, Version=4.1.4.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Numerics.Vectors.4.5.0\lib\net46\System.Numerics.Vectors.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Runtime.CompilerServices.Unsafe, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Runtime.CompilerServices.Unsafe.6.0.0\lib\net461\System.Runtime.CompilerServices.Unsafe.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Threading.Tasks.Extensions, Version=4.2.0.1, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Threading.Tasks.Extensions.4.5.4\lib\net461\System.Threading.Tasks.Extensions.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Transactions" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="ZstdSharp, Version=0.8.5.0, Culture=neutral, PublicKeyToken=8d151af33a4ad5cf, processorArchitecture=MSIL">
+      <HintPath>..\packages\ZstdSharp.Port.0.8.5\lib\net462\ZstdSharp.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AddCourse1.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="AddCourse1.Designer.cs">
+      <DependentUpon>AddCourse1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AddEditUserform.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AddEditUserform.Designer.cs">
+      <DependentUpon>AddEditUserform.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AssignScheduleForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AssignScheduleForm.Designer.cs">
+      <DependentUpon>AssignScheduleForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AssignTeacher.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AssignTeacher.Designer.cs">
+      <DependentUpon>AssignTeacher.cs</DependentUpon>
+    </Compile>
+    <Compile Include="class_sched.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="class_sched.Designer.cs">
+      <DependentUpon>class_sched.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DeanDashboard.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DeanDashboard.Designer.cs">
+      <DependentUpon>DeanDashboard.cs</DependentUpon>
+    </Compile>
+    <Compile Include="EnrollStudent.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="EnrollStudent.Designer.cs">
+      <DependentUpon>EnrollStudent.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ManageStudent.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ManageStudent.Designer.cs">
+      <DependentUpon>ManageStudent.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ManageStudentD.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ManageStudentD.Designer.cs">
+      <DependentUpon>ManageStudentD.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Override.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Override.Designer.cs">
+      <DependentUpon>Override.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Resources\IRefreshable.cs" />
+    <Compile Include="UCGrades.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UCGrades.Designer.cs">
+      <DependentUpon>UCGrades.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UC_Assign.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UC_Assign.Designer.cs">
+      <DependentUpon>UC_Assign.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UC_CoursesOverview.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UC_CoursesOverview.Designer.cs">
+      <DependentUpon>UC_CoursesOverview.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UC_Gradeassign.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UC_Gradeassign.Designer.cs">
+      <DependentUpon>UC_Gradeassign.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UC_GradesMonitor.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UC_GradesMonitor.Designer.cs">
+      <DependentUpon>UC_GradesMonitor.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UC_Home.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UC_Home.Designer.cs">
+      <DependentUpon>UC_Home.cs</DependentUpon>
+    </Compile>
+    <Compile Include="RegistrarDashboard.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="RegistrarDashboard.Designer.cs">
+      <DependentUpon>RegistrarDashboard.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AdminDashboard.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AdminDashboard.Designer.cs">
+      <DependentUpon>AdminDashboard.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SelectRole.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SelectRole.Designer.cs">
+      <DependentUpon>SelectRole.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Loginpage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Loginpage.Designer.cs">
+      <DependentUpon>Loginpage.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="StudentDashboard.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="StudentDashboard.Designer.cs">
+      <DependentUpon>StudentDashboard.cs</DependentUpon>
+    </Compile>
+    <Compile Include="TeacherDashboard.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TeacherDashboard.Designer.cs">
+      <DependentUpon>TeacherDashboard.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UC_Courses .cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UC_Courses .Designer.cs">
+      <DependentUpon>UC_Courses .cs</DependentUpon>
+    </Compile>
+    <Compile Include="UC_StudentProgress.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UC_StudentProgress.Designer.cs">
+      <DependentUpon>UC_StudentProgress.cs</DependentUpon>
+    </Compile>
+    <Compile Include="StudentProgress.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="StudentProgress.Designer.cs">
+      <DependentUpon>StudentProgress.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ViewCourseEnrolled.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ViewCourseEnrolled.Designer.cs">
+      <DependentUpon>ViewCourseEnrolled.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ViewEnrolledCourseD.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ViewEnrolledCourseD.Designer.cs">
+      <DependentUpon>ViewEnrolledCourseD.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="AddCourse1.resx">
+      <DependentUpon>AddCourse1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AddEditUserform.resx">
+      <DependentUpon>AddEditUserform.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AdminDashboard.resx">
+      <DependentUpon>AdminDashboard.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AssignScheduleForm.resx">
+      <DependentUpon>AssignScheduleForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AssignTeacher.resx">
+      <DependentUpon>AssignTeacher.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="class_sched.resx">
+      <DependentUpon>class_sched.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DeanDashboard.resx">
+      <DependentUpon>DeanDashboard.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EnrollStudent.resx">
+      <DependentUpon>EnrollStudent.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Loginpage.resx">
+      <DependentUpon>Loginpage.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ManageStudent.resx">
+      <DependentUpon>ManageStudent.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ManageStudentD.resx">
+      <DependentUpon>ManageStudentD.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Override.resx">
+      <DependentUpon>Override.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="RegistrarDashboard.resx">
+      <DependentUpon>RegistrarDashboard.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SelectRole.resx">
+      <DependentUpon>SelectRole.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="StudentDashboard.resx">
+      <DependentUpon>StudentDashboard.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TeacherDashboard.resx">
+      <DependentUpon>TeacherDashboard.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UCGrades.resx">
+      <DependentUpon>UCGrades.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UC_Assign.resx">
+      <DependentUpon>UC_Assign.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UC_Courses .resx">
+      <DependentUpon>UC_Courses .cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UC_CoursesOverview.resx">
+      <DependentUpon>UC_CoursesOverview.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UC_Gradeassign.resx">
+      <DependentUpon>UC_Gradeassign.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UC_GradesMonitor.resx">
+      <DependentUpon>UC_GradesMonitor.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UC_Home.resx">
+      <DependentUpon>UC_Home.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UC_StudentProgress.resx">
+      <DependentUpon>UC_StudentProgress.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="StudentProgress.resx">
+      <DependentUpon>StudentProgress.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ViewCourseEnrolled.resx">
+      <DependentUpon>ViewCourseEnrolled.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ViewEnrolledCourseD.resx">
+      <DependentUpon>ViewEnrolledCourseD.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Screenshot 2025-04-10 204120.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\header .png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
